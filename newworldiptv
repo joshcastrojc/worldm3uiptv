@@ -1,0 +1,624 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Arirang Radio" status="online",Arirang Radio
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arirang TV" status="online",Arirang TV Korea
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CJB SBS" status="online",CJB SBS Cheongju
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CJ on Style" status="online",CJ on Style
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="CTS.kr" status="online",CTS Korea
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 tvg-id="EBS1.kr" status="online",EBS 1 Korea
+http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSplus1.kr" status="online",EBS+ 1 Korea
+http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2.kr" status="online",EBS 2 Korea
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" status="online",EBS English Korea
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS Kids.kr" status="online",EBS Kids Korea
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN.kr" status="online",GCN Korea
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
+#EXTINF:-1 tvg-id="GS Shop.kr" status="online",GS Shop Korea
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JIBS SBS.kr" status="online",SBS JIBS Jeju Korea
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="JTV SBS.kr" status="online",SBS JTV Jeonju Korea
+https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBC SBS.kr" status="online",SBS KBC Gwangju 
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KNNTV.kr" status="online",SBS KNN (450p) [Not 24/7]
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS UBC.kr" status="online",SBS UBC Ulsan
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" status="online",KCTV ?? CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="KShopping.kr" status="online",KShopping
+https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC.kr" status="online",MBC Korea
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Andong.kr" status="online",MBC Andong
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Busan.kr" status="online",MBC Busan
+http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Chuncheon.kr" status="online",MBC Chuncheon
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Daejeon.kr" status="online",MBC Daejeon
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Jeju.kr" status="online",MBC Jeju
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Mokpo.kr" status="online",MBC Mokpo
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Yeosu.kr" status="online",MBC Yeosu
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MTN.kr" status="online",MTN (720p) [Not 24/7]
+http://183.110.27.87/mtnlive/720/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" status="online",KBS1 (720p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+#EXTINF:-1 tvg-id="KBS2TV.kr" status="online",KBS2 (720p) [Not 24/7]
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+#EXTINF:-1 tvg-id="KBSDrama.kr" status="online",KBS Drama (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+#EXTINF:-1 tvg-id="KBSJoy.kr" status="online",KBS Joy (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+#EXTINF:-1 tvg-id="KBSKids.kr" status="online",KBS Kids (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+#EXTINF:-1 tvg-id="KBSLife.kr" status="online",KBS Life (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" status="online",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSNewsD.kr" status="online",KBS News D (720p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+#EXTINF:-1 tvg-id="KBSStory.kr" status="online",KBS Story (480p)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="online",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="online",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="NBS.kr" status="online",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSTV.kr" status="online",TBS Seoul (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVN.kr" status="online",tvN
+https://main.soju6jan.com/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=SD&apikey=ooo5298ooo
+#EXTINF:-1 tvg-id="oTVN.kr" status="online",O tvN
+http://kkhyoyoyo.duckdns.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=SD&apikey=0MENK2CJI5
+#EXTINF:-1 tvg-id="XTVN.kr" status="online",X tvN
+https://main.soju6jan.com/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=SD&apikey=ooo5298ooo
+#EXTINF:-1 tvg-id="JTBC.kr" status="online",JTBC
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="JTBC2.kr" status="online",JTBC 2
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="JTBC4.kr" status="online",JTBC 4
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="MNET.kr" status="online",Mnet
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="CTI.tw" status="online",CTI Taiwan
+http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
+#EXTINF:-1 tvg-id="TVBS.tw" status="online",TVBS Taiwan
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="CTS.tw" status="online",CTS HD
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 tvg-id="CTSNews.tw" status="timeout",CTS News
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="CTV.tw" status="online",CTV
+http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+#EXTINF:-1 tvg-id="TVBS.tw" status="online",TVBS HD
+http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 tvg-id="TVBSAsia.tw" status="online",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBSEntertainmentChannel.tw" status="online",TVBS Entertainment Channel
+http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+#EXTINF:-1 tvg-id="TVBSNews.tw" status="online",TVBS News
+http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
+#EXTINF:-1 tvg-id="VITV.vn" status="online",VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="CTiEntertainment.tw" status="online",CTi Entertainment (中天娛樂台) (720p)
+http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 tvg-id="CTiNews.tw" status="timeout",CTi News (中天新聞台)
+https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 tvg-id="CTiVariety.tw" status="online",CTi Variety (中天綜合台) (720p)
+http://23.237.10.66:16372
+#EXTINF:-1 tvg-id="CTS.tw" status="online",CTS HD (華視) (720p)
+http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
+#EXTINF:-1 tvg-id="CTSNews.tw" status="timeout",CTS News (華視新聞資訊) [Geo-blocked]
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="EBCNews.tw" status="timeout",EBC News (東森新聞台) (1080p) [Not 24/7]
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="FTV.tw" status="online",FTV (民視) (720p)
+http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
+#EXTINF:-1 tvg-id="FTVNews.tw" status="timeout",FTV News (民視新聞台)
+https://hls.youtb.workers.dev/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 tvg-id="SETTaiwan.tw" status="online",SET Taiwan (三立臺灣台) (720p)
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="TVBSAsia.tw" status="online",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="CNC China" status="online",CNC China
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",????? / HKSTV-HKS (720p)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" status="online",Phoenix InfoNews Channel
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
+#EXTINF:-1 tvg-id="CanalMacau.mo" status="online",Canal Macau (720p) [Not 24/7]
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMInfoMacau.mo" status="online",TDM Info. Macau (720p) [Not 24/7]
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMMacau.mo" status="online",TDM Macau (720p)
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMMacauSatelite.mo" status="online",TDM Macau Satelite (720p)
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="DaNang 1.vt" status="online",Da Nang TV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Da Nang2.vt" status="online",Da Nang TV2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dong Nai 1" status="online",DNTV 1 Vietnam
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dong Nai 2" status="online",DNTV 2 Vietnam
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Fresh News.kh" status="online",Fresh News Cambodia
+http://167.99.65.12:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Khmer TV.kh" status="online",Khmer TV Cambodia
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT.th" status="online",NBT Bangkok
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" status="timeout",Channel 5 Thailand
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" status="online",Channel 5 (480p)
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 tvg-id="" status="online",NBT Bangkok (1080p) [Not 24/7]
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Thai PBS (Opt-4) (1080p) [Not 24/7]
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MaharBawdiTV.mm" status="timeout",Mahar Bawdi TV Myanmar
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8
+#EXTINF:-1 tvg-id="HITS.my" status="online",Hits Malaysia
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="RTMTV1.my" status="timeout",RTM TV 1 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="RTMTV2.my" status="timeout",RTM TV 2 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-id="SukanRTM.my" status="timeout",Sukan RTM [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-id="TV3.my" status="blocked",TV3 (720p) [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+#EXTINF:-1 tvg-id="TV9.my" status="blocked",TV9 (720p) [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png" group-title="",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-id="RTB Aneka" status="online",RTB Aneka Brunei
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="RTBGo.bn" status="online",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-id="RTB Sukmaindera" status="online",RTB Sukmaindera Brunei
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-id="ANTV" status="online",ANTV Indonesia
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 tvg-id="Bayu TV" status="online",Bayu TV Indonesia
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/playlist.m3u8
+#EXTINF:-1,CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35/session/9ec7c73c-099b-11ea-aff4-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="Metro Globe.id" status="online",Metro Globe Indonesia
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Metro TV.id" status="online",Metro TV Indonesia
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1,NET TV
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-id="SCTV Indonesia" status="online",SCTV Indonesia
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA HD",TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-name="TRANS 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA HD",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+#EXTINF:-1,(ID) TVRI NASIONAL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1,(ID) TVRI OLAHRAGA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1,(ID) TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+#EXTINF:-1,(ID) TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+#EXTINF:-1,(ID) TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+#EXTINF:-1,(ID) TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+#EXTINF:-1,(ID) TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+#EXTINF:-1,(ID) TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+#EXTINF:-1,(ID) TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:-1,(ID) TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+#EXTINF:-1,(ID) YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+#EXTINF:-1,(ID) TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+#EXTINF:-1,(ID) TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+#EXTINF:-1,(ID) TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+#EXTINF:-1,(ID) TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+#EXTINF:-1,(ID) TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+#EXTINF:-1,(ID) TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+#EXTINF:-1,(ID) TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+#EXTINF:-1,(ID) TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+#EXTINF:-1 tvg-id="BalikapanTV.id" status="online",Balikapan TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BaliTV.id" status="error",Bali TV (480p)
+https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_hls_timeshift/BaliTV_Timeshift.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id" status="online",Bandung TV (720p) [Not 24/7]
+http://202.150.153.254/bandungtv720p.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id" status="online",Bandung TV (360p) [Not 24/7]
+http://202.150.153.254/bandungtv360p.m3u8
+#EXTINF:-1 tvg-id="BantenTV.id" status="online",Banten TV (720p) [Not 24/7]
+https://v2.siar.us/barayatv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="BatamTV.id" status="online",Batam TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JakTV.id" status="online",Jak TV (576p)
+https://bravo.kugo.id/jaktv/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id" status="online",Jambi TV (576p) [Not 24/7]
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id" status="online",Jambi TV (480p) [Not 24/7]
+http://wowza58.indostreamserver.com:1935/jambitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaTV.id" status="online",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="PadangTV.id" status="online",Padang TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="PalembangTV.id" status="timeout",Pal TV (720p) [Not 24/7]
+https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PalembangTV.id" status="online",Pal TV (720p) [Not 24/7]
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id" status="error",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="Bangla Vision" status="online",Bangla Vision
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV World" status="online",BTV World Bangladesh
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel 24" status="online",Channel 24 Bangladesh
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="9TV.mn" status="online",TV9
+https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
+#EXTINF:-1 tvg-id="C1Television.mn" status="online",C1
+https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
+#EXTINF:-1 tvg-id="ETVHD.mn" status="online",ETV
+https://cdn1.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
+#EXTINF:-1 tvg-id="NTV.mn" status="online",NTV
+https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTINF:-1 tvg-id="NTV.mn" status="online",NTV
+https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
+#EXTINF:-1 tvg-id="ONTV.mn" status="online",ONTV
+https://cdn1.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
+#EXTINF:-1 tvg-id="SBNTV.mn" status="online",SBN
+https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
+#EXTINF:-1 tvg-id="StarTV.mn" status="online",Star TV
+https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+#EXTINF:-1 tvg-id="StarTV.mn" status="online",Star TV
+https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+#EXTINF:-1 tvg-id="TV5.mn" status="online",TV5
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
+#EXTINF:-1 tvg-id="TV8.mn" status="online",TV8
+https://cdn1.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1 tvg-id="TV25.mn" status="online",MN25
+https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+#EXTINF:-1 tvg-id="TV25.mn" status="online",MN25
+https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
+#EXTINF:-1 tvg-id="UBS.mn" status="online",UBS
+https://cdn1.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 tvg-id="UBS.mn" status="online",UBS
+https://cdn1.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
+#EXTINF:-1 tvg-id="Global News.ca" status="online",Global News Canada
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Global News W.ca" status="online",Global News Winnipeg
+https://live.corusdigitaldev.com/groupb/live/564df695-94f9-4f27-b1b9-0a936ab01721/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Global News M.ca" status="online",Global News Montreal
+https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Global News S.ca" status="online",Global News Saskatoon
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Global News T.ca" status="online",Global News Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="ICI Montreal.ca" status="online",ICI Montreal
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="Newfoundland.ca" status="online",Newfoundland TV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CIVMDT.ca" status="timeout",Télé-Québec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMagQuebec.ca" status="timeout",Télé-Mag Québec (1080p) [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="KMBC TV.us" status="online",ABC 9 Kansas City
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 tvg-id="KSBW TV.us" status="online",KSBW TV California
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+#EXTINF:-1 tvg-id="KHSB TV.us" status="online",KHSB 41 Kansas
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
+#EXTINF:-1 tvg-id="Coral Gables FL.us" status="online",Coral Gables Florida TV
+https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8
+#EXTINF:-1 tvg-id="ADN 40.mx" status="online",ADN 40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Akaku 53.us" status="online",Akaku 53 Maui
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="KALO TV.us" status="online",KALO TV Honolulu
+https://10380e91fda5e303.mediapackage.us-west-2.amazonaws.com/out/v1/e8a622ce6ed34d07b468dd6ea2f94ee8/index.m3u8
+#EXTINF:-1 tvg-id="AMX Noticias.mx" status="online",AMX Noticias Mexico
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 10 Cancun" status="online",Canal 10 Cancun Mexico
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" status="timeout",Once Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bellavision" status="online",Bellavision Dominican Republic
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 25 Jundiai" status="online",Canal 25 Brazil
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1 tvg-id="Canal 8 Costa Rica" status="online",Canal 8 Costa Rica
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="CBC TV8" status="online",CBC TV8 Barbados
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+#EXTINF:-1 tvg-id="CanalAntigua.gt" status="online",Canal Antigua (1080p)
+https://streaming.canal32hn.com/CanalAntigua/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Guatevision.gt" status="online",Guatevisión
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Televisiete.gt" status="online",Televisiete (480p)
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Antofagasta TV" status="online",Antofagasta TV Chile
+https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cali TV" status="online",Cali TV Chile
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="BoliviaTV72" status="online",Bolivia TV 7.2
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-id="Bolivision" status="online",Bolivision
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="Trece.py" status="timeout",Trece Paraguay
+https://stream.rpc.com.py/live/trece.m3u8
+#EXTINF:-1 tvg-id="ATV Noticias" status="online",ATV+ Noticias Peru
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 tvg-id="Conecta Peru" status="online",Conecta 2TV Peru
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" status="online",TV Perú (450p) [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="TVPeruanisima.pe" status="online",TV Peruanísima (720p) [Not 24/7]
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" status="online",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVPeruNoticias.pe" status="online",TV Perú Noticias (768p) [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="Net TV Argentina" status="online",Net TV Argentina
+https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Aloula.ae" status="online",Abu Dhabi Aloula
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Nat Geo.ae" status="online",Nat Geo Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" status="online",Cartoon Network Arabia (1080p)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="Dubai One.ae" status="online",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
+#EXTINF:-1 tvg-id="Dubai TV.ae" status="online",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" status="online",Al Arabiya Saudi
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya 2" status="online",Al Arabiya 2 Saudi
+https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" status="online",MBC 3 EUR (1080p)
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-id="MBC3.ae" status="online",MBC 3 KSA (1080p)
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" status="online",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="Sharjah2.ae" status="online",Sharjah 2 (1080p)
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahTV.ae" status="online",Sharjah TV (1080p)
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Amman TV" status="online",Amman TV Jordan
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1 tvg-id="Channel 21" status="online",Channel 21 Israel
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+#EXTINF:-1 tvg-id="Kabbalah TV" status="online",Kabbalah TV Israel
+http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain Int" status="online",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Qatar TV 2" status="online",Qatar TV2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="ArianaInt" status="online",Ariana International Afghanistan
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
+#EXTINF:-1 tvg-id="Ariana National" status="online",Ariana National Afghanistan
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNNews.af" status="online",ATN News (720p) [Not 24/7]
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Saarland1" status="online",Saarland Germany 1
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Saarland2" status="online",Saarland Germany 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="MNM.be" status="online",MNM (720p)
+https://live-vrt.akamaized.net/groupa/live/bac277a1-306d-44a0-8e2e-e5b9c07fa270/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TV2 Bornholm" status="online",TV2 Bornholm Denmark
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-id="TV2 Norway" status="online",TV2 Nyhetsstrommen
+https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8 
+#EXTINF:-1 tvg-id="TV4 Sweden" status="online",TV4 Nyheterna
+https://csm-e-tv4se-eb.tls1.yospace.com/csm/live/142791350.m3u8
+#EXTINF:-1 tvg-id="TVP3Bialystok.pl" status="online",TVP 3 Bialystok (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:-1 tvg-id="TVP3Bydgoszcz.pl" status="online",TVP 3 Bydgoszcz (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:-1 tvg-id="TVP3Gdansk.pl" status="online",TVP 3 Gdansk (404p)
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:-1 tvg-id="AlpenlandTV.ch" status="timeout",Alpenland TV Switzerland
+https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
+#EXTINF:-1 tvg-id="LaTele.ch" status="timeout",La Télé Switzerland
+https://edge.vedge.infomaniak.com/livecast/ik:latele/playlist.m3u8
+#EXTINF:-1 tvg-id="TVO.ch" status="timeout",TVO Switzerland
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" status="online",RTP1 Portugal
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="AlcarriaTV.es" status="online",Alcarria TV Spain
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="Canal 4 Tenerife.es" status="online",Canal 4 Tenerife Spain
+https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
+#EXTINF:-1 tvg-id="ETB1.es" status="online",ETB 1 Spain
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="ETB2.es" status="online",ETB 2 Spain
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es" status="online",Telemadrid Spain
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="Antenna 2" status="online",Antenna 2 Italy
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="GRP Televisione" status="online",GRP Televisione Italy
+https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2000 Vatican" status="online",TV2000 Vatican
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="BFM Grand Lille" status="online",BFM France
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr" status="timeout",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr" status="timeout",TV7 Bordeaux (720p)
+http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MonacoInfo.mc" status="timeout",Monaco Info (720p) [Not 24/7]
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 tvg-id="RUV2.is" status="timeout",RUV2 Iceland
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 tvg-id="RUV.is" status="timeout",RUV Iceland
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="Belarus 24" status="online",Belarus 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al" status="online",TV 7 Albania
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1 tvg-id="RTMPlus.cz" status="online",RTM plus (720p)
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1 tvg-id="TVAHD.de" status="online",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="4E.gr" status="online",4E (720p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CityChannel.cy" status="online",City Channel
+https://dev.aftermind.xyz/edge-hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1 tvg-id="AtticaTV.gr" status="online",Attica TV
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CreteTV.gr" status="online",KPHTH TV 
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="ENAChannel.gr" status="online",Ena Channel
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 tvg-id="IonianTVHD.gr" status="online",Ionian Channel 
+http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IonianTVHD.gr" status="online",Ionian Channel
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IridaTV.gr" status="online",Irida TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 tvg-id="OpenTV.gr" status="online",Open TV
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PellaTV.gr" status="online",Pella TV 
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 tvg-id="PLP.gr" status="online",PLP 
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1 tvg-id="TV100.gr" status="online",TV 100
+https://live.fm100.gr/hls/tv100/index.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr" status="online",Creta
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCreta.gr" status="online",TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVFilopoli.gr" status="online",TV Filopoli 
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 tvg-id="Addis TV" status="online",Addis TV Ethiopia
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa TV1" status="online",Africa TV1 Ethiopia
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa TV2" status="online",Africa TV2 
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="Africa TV3" status="online",Africa TV3 
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="Africanews.cg" status="online",AfricaNews English (720p)
+https://rakuten-africanews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="KTNNews.ke" status="timeout",KTN News Kenya
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+#EXTINF:-1 tvg-id="NTVKenya.ke" status="timeout",NTV Kenya
+https://hls.youtb.workers.dev/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
+#EXTINF:-1 tvg-id="TV47Kenya.ke" status="timeout",TV47 Kenya
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tv47kenya/
+#EXTINF:-1 tvg-id="StarTV.tz" status="timeout",Star TV Tanzania
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/startvtanzania
+#EXTINF:-1 tvg-id="C31 Melbourne" status="online",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-id="Channel44.au" status="online",Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="ABCTV.au" status="online",ABC TV (720p)
+https://c.mjh.nz/101002810281
+#EXTINF:-1 tvg-id="ABCTVPlus.au" status="online",ABC TV Plus (720p)
+https://c.mjh.nz/abc2
+#EXTINF:-1 tvg-id="SmithsonianChannelAsia.us" status="timeout",Smithsonian Channel Asia (1080p)
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSN.au" status="timeout",TVSN (1080p)
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
+#EXTINF:-1 tvg-id="VTV.mv" status="online",VTV (1080p)
+http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
+#EXTINF:-1 tvg-id="" status="online",VTV (1080p)
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np" status="online",Kantipur TV (1080p)
+https://ktvhdsg.ekantipur.com:8443/ktv_desktop_02347834/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera" status="online",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Aniplus" status="online",Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="BBC America" status="online",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC World News" status="online",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BlueAnt Ent" status="online",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-id="CGTN English" status="online",CGTN English
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+#EXTINF:-1,CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CNA" status="online",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="DW" status="online",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,thrill HD
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="CNN Philippines" status="online",CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph" status="online",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="online",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" status="online",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+#EXTINF:-1 tvg-id="TVOsaka.jp" status="online",TV Osaka (?????) (540p)
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOsaka.jp" status="online",TV Osaka (?????) (540p)
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_osaka_540/playlist.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp" status="online",Weathernews (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
